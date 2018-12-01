@@ -1,9 +1,12 @@
 
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
       "title": "Post 1"
+      "price": "£24.99"
+      "body": "information about the product"
+      
     },
     {
       "id": 2,
@@ -13,20 +16,5 @@
       "id": 3,
       "title": "Post 3"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
