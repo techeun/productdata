@@ -1,8 +1,8 @@
 {
   "products": [
-    { "productid": 1, "title": "DON'T ASK WHY" },
-    { "productid": 2, "title": "GIRLBOSS" },
-    { "productid": 3, "title": "LIGHTNING BOLT" }
+    { "id": 1, "title": "DON'T ASK WHY" },
+    { "id": 2, "title": "GIRLBOSS" },
+    { "id": 3, "title": "LIGHTNING BOLT" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
