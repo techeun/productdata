@@ -2,13 +2,28 @@
   "products": [
     { "productid": 1, "name": "DON'T ASK WHY", "price": " £24.99" },
     { "productid": 2, "name": "GIRLBOSS", "price": " £39.99" },
-    { "productid": 3, "name": "LIGHTNING BOLT", "price": " £19.99" }
-  ],
+    { "productid": 3, "name": "LIGHTNING BOLT", "price": " £19.99" },
+    { "productid": 4, "name": "GOLD CROWN", "price": " £29.99" },
+    { "productid": 5, "name": "RED SKULL", "price": " £24.99" },
+    { "productid": 6, "name": "MELTING HEART", "price": " £19.99" },
+    { "productid": 7, "name": "STAY WILD", "price": " £29.99" },
+    { "productid": 8, "name": "CLOUD", "price": " £13.99" }
+   ],
+  
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Purple Neon", "Dimensions 40cm x 50cm", "Decorative chain included", "Delivery 3 - 5 working days", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 2 },
+    { "id": 3, "body": "some comment", "postId": 3 },
+    { "id": 4, "body": "some comment", "postId": 4 },
+    { "id": 5, "body": "some comment", "postId": 5 },
+    { "id": 6, "body": "some comment", "postId": 6 },
+    { "id": 7, "body": "some comment", "postId": 7 },
+    { "id": 8, "body": "some comment", "postId": 8 },
+    { "id": 9, "body": "some comment", "postId": 9 }
+    
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+ "saleproducts": [
+   {"productid": 9, "name": "TEA FOR TWO", "price": "£14.99"}
+   ]
 }
