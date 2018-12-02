@@ -11,7 +11,7 @@
    ],
   
   "comments": [
-    { "id": 1, "body": "Purple Neon", "Dimensions 40cm x 50cm", "Decorative chain included", "Delivery 3 - 5 working days", "postId": 1 },
+    { "id": 1, "body": "Purple Neon" "Dimensions 40cm x 50cm" "Decorative chain included" "Delivery 3 - 5 working days", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 2 },
     { "id": 3, "body": "some comment", "postId": 3 },
     { "id": 4, "body": "some comment", "postId": 4 },
