@@ -1,8 +1,8 @@
 {
   "products": [
-    { "id": 1, "name": "DON'T ASK WHY" },
-    { "id": 2, "name": "GIRLBOSS" },
-    { "id": 3, "name": "LIGHTNING BOLT" }
+    { "productid": 1, "name": "DON'T ASK WHY", "price": " £24.99" },
+    { "productid": 2, "name": "GIRLBOSS", "price": " £39.99" },
+    { "productid": 3, "name": "LIGHTNING BOLT", "price": " £19.99" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
