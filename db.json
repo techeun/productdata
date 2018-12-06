@@ -4,7 +4,12 @@
 			"name": "DON'T ASK WHY",
 			"price": " £24.99",
 			"url": "https://i.ebayimg.com/images/g/E74AAOSwvp5ZiET4/s-l300.jpg",
-			"description": " Purple Neon, Dimensions 40cm x 50cm, Decorative chain included, Delivery 3 - 5 working days"
+			"description": {
+				"text": " Purple Neon",
+				"text1": "Dimensions 40cm x 50cm",
+				"text2": "Decorative chain included",
+				"text3": "Delivery 3 - 5 working days"
+			}
 		},
 		{
 			"productid": 2,
