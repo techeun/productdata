@@ -1,10 +1,10 @@
-{  
+{
 	"products": [{
 			"productid": 1,
 			"name": "DON'T ASK WHY",
 			"price": " £24.99",
-		        "url": "https://i.ebayimg.com/images/g/E74AAOSwvp5ZiET4/s-l300.jpg",
-		        "description" : " Purple Neon, Dimensions 40cm x 50cm, Decorative chain included, Delivery 3 - 5 working days"
+			"url": "https://i.ebayimg.com/images/g/E74AAOSwvp5ZiET4/s-l300.jpg",
+			"description": " Purple Neon, Dimensions 40cm x 50cm, Decorative chain included, Delivery 3 - 5 working days"
 		},
 		{
 			"productid": 2,
@@ -46,7 +46,7 @@
 			"productid": 8,
 			"name": "CLOUD",
 			"price": " £13.99",
-			"url": "https://res.cloudinary.com/streethub/image/upload/w_460,f_auto,q_auto/v1484320251/brand/56e9784de1ab12030097cad7/da7dc25e-3897-4baa-a3fc-d1b022c1a5dc.png" alt="Card image"
+			"url": "https://res.cloudinary.com/streethub/image/upload/w_460,f_auto,q_auto/v1484320251/brand/56e9784de1ab12030097cad7/da7dc25e-3897-4baa-a3fc-d1b022c1a5dc.png"
 		}
 	],
 
@@ -55,7 +55,7 @@
 		"productid": 9,
 		"name": "TEA FOR TWO",
 		"price": "£14.99",
-	        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aYp9UHquRS9-Ljvg4LyDZy3XNsBal-xOXxN0Ngz6qOt2UYCjow:https://5.imimg.com/data5/NO/SA/MY-9257712/neon-sign-500x500.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aYp9UHquRS9-Ljvg4LyDZy3XNsBal-xOXxN0Ngz6qOt2UYCjow:https://5.imimg.com/data5/NO/SA/MY-9257712/neon-sign-500x500.jpg"
 	}
 
 }
