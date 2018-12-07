@@ -1,6 +1,6 @@
 {
 	"products": [{
-			"productid": 1,
+			"id": 1,
 			"name": "DON'T ASK WHY",
 			"price": " £24.99",
 			"url": "https://i.ebayimg.com/images/g/E74AAOSwvp5ZiET4/s-l300.jpg",
@@ -11,19 +11,19 @@
 			
 		},
 		{
-			"productid": 2,
+			"id": 2,
 			"name": "GIRLBOSS",
 			"price": " £39.99",
 			"url": "https://images-na.ssl-images-amazon.com/images/I/71TTfi84JdL._SX425_.jpg"
 		},
 		{
-			"productid": 3,
+			"id": 3,
 			"name": "LIGHTNING BOLT",
 			"price": " £19.99",
 			"url": "https://images-na.ssl-images-amazon.com/images/I/51DRpj2h1pL.jpg"
 		},
 		{
-			"productid": 4,
+			"id": 4,
 			"name": "GOLD CROWN",
 			"price": " £29.99",
 			"url": "https://i.ebayimg.com/images/g/M4cAAOSwoR9aEj3A/s-l300.jpg"
@@ -35,19 +35,19 @@
 			"url": "https://i.ebayimg.com/images/g/L-QAAOSwjTlZiEON/s-l300.jpg"
 		},
 		{
-			"productid": 6,
+			"id": 6,
 			"name": "MELTING HEART",
 			"price": " £19.99",
 			"url": "https://sc01.alicdn.com/kf/HTB1wjuVOpXXXXb8XXXX760XFXXXa/Melting-heart-shape-neon-signs-LED-backed.png"
 		},
 		{
-			"productid": 7,
+			"id": 7,
 			"name": "STAY WILD",
 			"price": " £29.99",
 			"url": "https://apollobox-server-dev.s3.amazonaws.com/vendor/product/2018-09-06-06/productImages/wIvrIEGbHWHandmade%20%27Stay%20Wild%27%20Blue%20Wedding%20Anniversary%20Art%20Light%20Gift%20Neon%20Sign_meitu_3.jpg"
 		},
 		{
-			"productid":8,
+			"id":8,
 			"name": "CLOUD",
 			"price": " £13.99",
 			"url": "https://res.cloudinary.com/streethub/image/upload/w_460,f_auto,q_auto/v1484320251/brand/56e9784de1ab12030097cad7/da7dc25e-3897-4baa-a3fc-d1b022c1a5dc.png"
@@ -56,7 +56,7 @@
 
 
 	"saleproducts": {
-		"productid": 9,
+		"id": 9,
 		"name": "TEA FOR TWO",
 		"price": "£14.99",
 		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aYp9UHquRS9-Ljvg4LyDZy3XNsBal-xOXxN0Ngz6qOt2UYCjow:https://5.imimg.com/data5/NO/SA/MY-9257712/neon-sign-500x500.jpg"
